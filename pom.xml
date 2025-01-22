@@ -153,7 +153,7 @@
 
         </dependencies>
     </dependencyManagement>
-<!-- 插件管理允许你在父 POM 中定义插件的版本和默认配置，子模块可以继承这些配置 -->
+<!-- 插件管理允许在父 POM 中定义插件的版本和默认配置，子模块可以继承这些配置 -->
     <build>
         <pluginManagement>
             <plugins>
